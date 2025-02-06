@@ -22,8 +22,8 @@ public class ASCIIArtGenerator extends PApplet {
      *To change image:
      * add file path to photo variable
      * run program
-     * check conole for width and hieght of photo
-     * add width and hieght to size method in settings
+     * check console for width and hieght of photo
+     * add width and height to size method in settings
      */
     public void setup() {
         photo = loadImage("EAM_Nuvolari_S1_640x480.jpg");
